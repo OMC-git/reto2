@@ -1,5 +1,5 @@
-# reto2 <span style="color:red">Este texto es rojo.</span>  
 # reto2 Creación de una página Web básica en HTML 5
+
 Reto 2 del curso fundae de programación web  
 El reto esta hecho en la página web de inicio.html y se hizo lo siguiente:
 - He incluido encabezados de los 6 niveles en mi web.
